@@ -11,6 +11,7 @@ import Product from './hotel/Product';
 import Registration from './hotel/Registration';
 import Home from './Home';
 import Footer from './hotel/Footer';
+// import { Carousel } from 'bootstrap/dist/js/bootstrap.bundle';
 
 
 

@@ -13,37 +13,37 @@ const Carousel = () => {
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
                 </div>
-                <div className="carousel-inner">
+                <div className="carousel-inner w-100">
                     <div className="carousel-item active" data-bs-interval="2000">
-                        <img src="image/img.jpg" className="d-block w-100" alt="NoImage" />
+                        <img src="image/9-Sharjah-Interior-Designers-1-750x410.jpg" className="d-block w-100 h-80" alt="NoImage" />
                         <div className="carousel-caption d-none d-md-block d-md-block">
                             <h5>First slide label</h5>
                             <p>Some representative placeholder content for the first slide.</p>
                         </div>
                     </div>
                     <div className="carousel-item" data-bs-interval="2000">
-                        <img src="image/img3.jpg" className="d-block w-100" alt="NoImage" />
+                        <img src="image/banner3.webp" className="d-block w-100 " alt="NoImage" />
                         <div className="carousel-caption d-none d-md-block d-md-block">
                             <h5>Second slide label</h5>
                             <p>Some representative placeholder content for the second slide.</p>
                         </div>
                     </div>
                     <div className="carousel-item" data-bs-interval="2000">
-                        <img src="image/img2.jpg" className="d-block w-100" alt="NoImage" />
+                        <img src="image/1508-London.jpg" className="d-block w-100 " alt="NoImage" />
                         <div className="carousel-caption d-none d-md-block d-md-block">
                             <h5>Third slide label</h5>
                             <p>Some representative placeholder content for the third slide.</p>
                         </div>
                     </div>
                     <div className="carousel-item active" data-bs-interval="2000">
-                        <img src="image/img4.jpg" className="d-block w-100" alt="NoImage" />
+                        <img src="image/Main-picture.jpg" className="d-block w-100 " alt="NoImage" />
                         <div className="carousel-caption d-none d-md-block d-md-block">
                             <h5>Fourth slide label</h5>
                             <p>Some representative placeholder content for the first slide.</p>
                         </div>
                     </div>
                     <div className="carousel-item active" data-bs-interval="2000">
-                        <img src="image/img5.jpg" className="d-block w-100" alt="NoImage" />
+                        <img src="image/Best-Interior-Designers-Discover-1508-LONDON-Incredible-Projects-9.jpg" className="d-block w-100 " alt="NoImage" />
                         <div className="carousel-caption d-none d-md-block d-md-block">
                             <h5>Fivth slide label</h5>
                             <p>Some representative placeholder content for the first slide.</p>

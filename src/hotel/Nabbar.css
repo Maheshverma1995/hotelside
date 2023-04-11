@@ -1,0 +1,13 @@
+
+.navbar-brand
+{
+    width: 20%;
+    height: auto;
+}
+#icon{
+    margin-left: 20px;
+    width: 25%;
+    height: auto;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
